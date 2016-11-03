@@ -1,0 +1,47 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2JCYr/9TIG2xuUcdxW9HupSemGM=",
+			"path": "github.com/hybridgroup/gobot",
+			"revision": "67ff7da9e3bd7ae9adc54dd89a533ab4c1a557c4",
+			"revisionTime": "2016-07-13T14:41:14Z",
+			"version": "master",
+			"versionExact": "master"
+		},
+		{
+			"checksumSHA1": "bseGfkTy3iQZ/ovsSMpnRnxTqaU=",
+			"path": "github.com/hybridgroup/gobot/platforms/chip",
+			"revision": "67ff7da9e3bd7ae9adc54dd89a533ab4c1a557c4",
+			"revisionTime": "2016-07-13T14:41:14Z",
+			"version": "master",
+			"versionExact": "master"
+		},
+		{
+			"checksumSHA1": "iPk7vFSc2oFUjJ9vSiA0KmPU92M=",
+			"path": "github.com/hybridgroup/gobot/platforms/gpio",
+			"revision": "67ff7da9e3bd7ae9adc54dd89a533ab4c1a557c4",
+			"revisionTime": "2016-07-13T14:41:14Z",
+			"version": "master",
+			"versionExact": "master"
+		},
+		{
+			"checksumSHA1": "q8LQ3TvcumbJ+MoGIjVlj3YhwGg=",
+			"path": "github.com/hybridgroup/gobot/platforms/i2c",
+			"revision": "67ff7da9e3bd7ae9adc54dd89a533ab4c1a557c4",
+			"revisionTime": "2016-07-13T14:41:14Z",
+			"version": "master",
+			"versionExact": "master"
+		},
+		{
+			"checksumSHA1": "IqHu9NtV44r8+4QE+uGZQICb7+A=",
+			"path": "github.com/hybridgroup/gobot/sysfs",
+			"revision": "67ff7da9e3bd7ae9adc54dd89a533ab4c1a557c4",
+			"revisionTime": "2016-07-13T14:41:14Z",
+			"version": "master",
+			"versionExact": "master"
+		}
+	],
+	"rootPath": "github.com/conoro/gobotchip01"
+}
